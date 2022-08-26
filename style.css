@@ -1,0 +1,71 @@
+.top-container {
+    background-color: rgb(218, 242, 250);
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.middle-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.border {
+    background-color: white;
+    border: 1px solid black;
+    width: 790px;
+}
+
+.header {
+
+    background-color: rgb(112, 179, 233);
+    width: 500px;
+    height: 50px;
+    border: 2px dashed black;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.exercises{
+    background-color: rgb(105, 219, 105);
+    width: 500px;
+    height: 150px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.top-container-second {
+    background-color: rgb(218, 242, 250);
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.middle-container-second {
+    background-color: red;
+    border: 20px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 260px;
+}
+
+.bottom-container-second {
+    background-color: yellow;
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
